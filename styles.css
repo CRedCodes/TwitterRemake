@@ -1,10 +1,22 @@
 * {
-    margin: 0;
+    margin: -20px;
     background-color: black;
-
 }
 
-.main-body {
+#bird {
+    height: 70px;
+    width: 70px;
+}
+
+
+
+
+
+
+
+/* Without booty strap */
+
+/* .main-body {
     flex: row;
 }
 
@@ -19,8 +31,9 @@
     width: 640px;
     height: auto;
     
-}
+} 
 
 .right {
     background-color: black;
-}
+} 
+*/
