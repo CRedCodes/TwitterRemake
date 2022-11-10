@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;800&display=swap');
+
+
 * {
     background-color: black;
     font-family: 'Public Sans', sans-serif;
@@ -7,13 +10,23 @@
     color: white;
 }
 
-.h1 {
-    font-weight: bold;
+#h1 {
+    font-size: 65px;
+    font-weight: 1000;
+    font-stretch: extra-expanded;
 }
 
-.h2 {
-    font-size: 12px;
+#h2 {
+    font-size: 35px;
+    font-weight: 700;
 }
+
+#button1 {
+    color:grey;
+    font-size: 13px;
+    background-color: white;
+}
+
 
 
 
