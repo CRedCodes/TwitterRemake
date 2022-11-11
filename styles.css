@@ -23,8 +23,40 @@
 
 #button1 {
     color:grey;
-    font-size: 13px;
+    font-size: 16px;
     background-color: white;
+    border: 2px;
+    padding: 10px 92px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px;
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+#button2 {
+    color:black;
+    font-size: 16px;
+    background-color: white;
+    border: 2px;
+    padding: 10px 92px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+#or {
+    text-align: center;
+    border-bottom: 1px solid grey;;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+
+#spanor {
+    background: black;
+    padding: 0 10px;
 }
 
 
