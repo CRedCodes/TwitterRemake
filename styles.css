@@ -60,6 +60,7 @@
 }
 
 #listing {
+    display: inline;
     padding: 0px;
 }
 
@@ -67,5 +68,7 @@
     display: inline-block;
     width: auto;
     list-style: outside none none;
+    font-size: 10px
+    
 }
 
